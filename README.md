@@ -4,7 +4,7 @@ This code creates PoC demo environment for CSA IL4 Assured Workload with VPC ser
 ```
 
 # CSA Guide
-This Cloud Security Architecture uses terraform to setup IL4 Assured Workload with VPC service perimeter demo in a parent folder and underlying infrastructure using Google Cloud Services like [Asssured Workload](https://cloud.google.com/assured-workloads), [Cloud Function](https://cloud.google.com/functions), [Access Context Manager](https://cloud.google.com/access-context-manager), [Cloud Key Management](https://cloud.google.com/security-key-management), [Compute Engine](https://cloud.google.com/compute), [BigQuery](https://cloud.google.com/bigquery), [Compute Storage](https://cloud.google.com/storage)  and [Cloud Logging](https://cloud.google.com/logging).
+This Cloud Security Architecture uses terraform to setup IL4 Assured Workload with VPC service perimeter demo in a parent folder and underlying infrastructure using Google Cloud Services like [Assured Workload](https://cloud.google.com/assured-workloads), [Cloud Function](https://cloud.google.com/functions), [Access Context Manager](https://cloud.google.com/access-context-manager), [Cloud Key Management](https://cloud.google.com/security-key-management), [Compute Engine](https://cloud.google.com/compute), [BigQuery](https://cloud.google.com/bigquery), [Compute Storage](https://cloud.google.com/storage)  and [Cloud Logging](https://cloud.google.com/logging).
 
 
 ## CSA Architecture Diagram
