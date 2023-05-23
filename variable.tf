@@ -151,7 +151,7 @@ variable "enforced_regional_access" {
     type = list(string)
     default = [
         "US", # USA
-        "CA", # Canada
-        "UM", #  US Minor Outlying Islands
+     #   "CA", # Canada
+     #   "UM", #  US Minor Outlying Islands
         ]
 }
