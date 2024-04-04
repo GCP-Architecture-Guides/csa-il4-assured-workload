@@ -87,7 +87,7 @@ The following steps should be executed in Cloud Shell in the Google Cloud Consol
 1. To deploy the architecture open up Cloud shell and clone the [git repository](https://github.com/mgaur10/csa-il4-assured-workload) using the command below.
 
 ```
-git clone https://github.com/mgaur10/csa-il4-assured-workload
+git clone https://github.com/GCP-Architecture-Guides/csa-il4-assured-workload.git
 ```
 
 1. Navigate to the csa-il4-assured-workload folder.
